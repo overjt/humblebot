@@ -1,0 +1,24 @@
+{
+  "name": "humblebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "humblebundle",
+    "telegram"
+  ],
+  "author": "Jonathan Toledo <me@over.cf> (https://github.com/overjt/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "coffee-script": "^1.9.3",
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6",
+    "teleapiwrapper": "^0.9.1",
+    "twit": "^2.0.0"
+  }
+}
